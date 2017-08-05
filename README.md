@@ -3,7 +3,7 @@ Fab lab @ MESCE is the only Fab Lab in the Malabar region . It was decided to co
    * > [3-D printer](https://en.wikipedia.org/wiki/3D_printing)<br/>
        <img src="mescefablab.github.io/852236424_74353[1].jpg">
    * > [Laser Cutting/Engraving Machine](https://en.wikipedia.org/wiki/Laser_engraving)
-       <img src="">
+       <img src="mescefablab.github.io/852240798_74849[1].jpg">
    * > [Vinyl Cutter](https://en.wikipedia.org/wiki/Vinyl_cutter)<br/>
    * > [CNC Milling machine](https://en.wikipedia.org/wiki/Milling_(machining))
        <img src="mescefablab.github.io/852238882_74044[1].jpg">
