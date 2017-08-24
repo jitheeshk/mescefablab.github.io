@@ -5,5 +5,6 @@ Fab lab @ MESCE is the only Fab Lab in the Malabar region . It was decided to co
    * > [Laser Cutting/Engraving Machine](https://en.wikipedia.org/wiki/Laser_engraving)
        <img src="http://jitheeshk.github.io/mescefablab.github.io/852240798_74849[1].jpg">
    * > [Vinyl Cutter](https://en.wikipedia.org/wiki/Vinyl_cutter)<br/>
+      <img src="http://jitheeshk.github.io/mescefablab.github.io/vinyl cutter.jpg">  
    * > [CNC Milling machine](https://en.wikipedia.org/wiki/Milling_(machining))
        <img src="http://jitheeshk.github.io/mescefablab.github.io/852238882_74044[1].jpg">
